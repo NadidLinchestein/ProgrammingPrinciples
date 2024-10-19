@@ -1,0 +1,4 @@
+Q) What is the purpose of the “Hello, World!” program?
+
+A) The "Hello, World!" program serves as a simple introduction to C++ programming. 
+   It demonstrates the basic syntax and structure of a C++ program, including how to output text to the console.

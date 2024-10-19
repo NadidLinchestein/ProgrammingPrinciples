@@ -1,0 +1,11 @@
+Q) Name the four parts of a function
+
+A) Four parts of a function:
+
+Return type: Specifies what type of value the function returns (e.g., int, void).
+
+Function name: The identifier by which the function is called.
+
+Parameters: A list of inputs the function expects (can be empty).
+
+Body: The block of code enclosed in curly braces {} that defines what the function does.
