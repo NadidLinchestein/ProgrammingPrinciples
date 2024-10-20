@@ -1,0 +1,3 @@
+Object - An object is a region of memory with a type that specifies what kind of information can be placed in it.
+
+Variable - A named object is called a variable.
