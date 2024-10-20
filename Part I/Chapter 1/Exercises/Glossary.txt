@@ -1,0 +1,12 @@
+Writing Definitions
+Here are some general approaches to terms related to C++:
+
+Compiler: A program that translates C++ source code into machine-readable code (an executable file).
+
+Linker: A tool that combines multiple object files and libraries into a single executable file.
+
+Variable: A named storage location in memory used to hold data.
+
+Function: A block of code designed to perform a specific task.
+
+Array: A collection of elements of the same type, stored in contiguous memory locations.

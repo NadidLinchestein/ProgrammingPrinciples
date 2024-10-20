@@ -1,0 +1,25 @@
+Writing Instructions for Finding the Upstairs Bathroom:
+This exercise is about thinking in terms of explicit steps, as a computer would require. 
+
+House Layout:
+
+A two-story house with a living room, kitchen, and bathroom downstairs, and a bedroom and an upstairs bathroom.
+You start at the front door, the stairs are straight ahead, and the upstairs bathroom is down a hallway to the left.
+
+Instructions:
+
+Stand at the front door, facing forward.
+Open the front door.
+Step inside and close the door behind you.
+Turn 90 degrees to your right to face the stairs.
+Walk forward 10 steps toward the base of the stairs.
+Place your right hand on the stair rail.
+Lift your left foot and step up onto the first stair.
+Repeat this motion for each of the next 14 stairs.
+Upon reaching the top, turn 90 degrees to the left.
+Walk forward 5 steps until you reach a hallway.
+Turn left and walk forward 8 steps.
+The bathroom door is on your right. Turn the doorknob and push to open it.
+Step inside the bathroom.
+
+Additional steps (for clarity): Some assumptions (like knowing how to turn a doorknob, or which foot to step with) may need to be detailed more explicitly, especially for a "computer."
