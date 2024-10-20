@@ -1,0 +1,4 @@
+Q) What is the difference between a source file and an object file?
+
+A) A source file (e.g., .cpp) contains the original C++ code written by the programmer.
+   An object file (e.g., .o or .obj) is the compiled version of the source file, containing machine code but not yet fully linked.

@@ -1,0 +1,4 @@
+Q) What is an executable?
+
+A) An executable is a file (e.g., .exe on Windows) that can be run directly by the operating system, 
+   containing the fully linked machine code of the program.

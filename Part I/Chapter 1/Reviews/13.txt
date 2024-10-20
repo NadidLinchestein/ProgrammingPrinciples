@@ -1,0 +1,4 @@
+Q) How do you get a compiled program to run?
+
+A) After compiling, you can run the executable file 
+   (usually by clicking on it in a file explorer or by running it from the command line).

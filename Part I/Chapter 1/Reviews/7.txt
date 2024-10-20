@@ -1,0 +1,4 @@
+Q) What is the purpose of the #include directive?
+
+A) It tells the preprocessor to include the contents of a specified file (usually a header file) 
+   into your source file before compilation.

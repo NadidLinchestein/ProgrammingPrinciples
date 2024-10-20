@@ -1,0 +1,4 @@
+Q) What is the purpose of the import statement?
+
+A) In C++, the equivalent of an "import statement" is the #include directive. 
+   Its purpose is to include code from external libraries or files into your program.

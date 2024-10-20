@@ -1,0 +1,4 @@
+Q) In the “Hello, World!” program, what is the purpose of the line return 0;?
+
+A) It indicates that the program has ended successfully. 
+   In the main() function, return 0 typically signals successful execution to the operating system.

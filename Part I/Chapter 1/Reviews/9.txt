@@ -1,0 +1,4 @@
+Q) What does the linker do for your program?
+
+A) The linker combines object files (compiled code) and external libraries into a single executable file. 
+   It resolves references between different code segments.

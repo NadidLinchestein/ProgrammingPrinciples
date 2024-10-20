@@ -1,0 +1,3 @@
+Q) Name a function that must appear in every C++ program
+
+A) The main() function, which is the entry point where execution begins.

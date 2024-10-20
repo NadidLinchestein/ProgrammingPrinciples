@@ -1,0 +1,6 @@
+Q) What is a comment?
+
+A) A comment is a part of the code that is ignored by the compiler. 
+   It is used to explain and document the code. 
+   Single-line comments start with //, and multi-line comments are enclosed in /* */.
+

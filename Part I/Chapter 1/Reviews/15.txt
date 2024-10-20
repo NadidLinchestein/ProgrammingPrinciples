@@ -1,0 +1,4 @@
+Q) What is the purpose of a drill?
+
+A) A drill is a set of exercises designed to help you practice and reinforce programming concepts. 
+   It helps solidify learning by applying theoretical knowledge.

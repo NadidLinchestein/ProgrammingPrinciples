@@ -1,0 +1,4 @@
+Q) What does a .cpp suffix at the end of a file name signify in C++?
+
+A) A .cpp file is a C++ source code file. 
+   It contains the code written by the programmer, which needs to be compiled into machine code.

@@ -1,0 +1,4 @@
+Q) What is an IDE and what does it do for you?
+
+A) An Integrated Development Environment (IDE) is a software application that provides a comprehensive environment for programming, 
+   typically including a text editor, compiler, debugger, and build tools. It simplifies writing, compiling, and debugging code.
