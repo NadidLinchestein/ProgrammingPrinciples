@@ -1,3 +1,12 @@
 Object - An object is a region of memory with a type that specifies what kind of information can be placed in it.
+         An object is some memory that holds a value of a given type.
 
 Variable - A named object is called a variable.
+
+Type - A type defines a set of possible values and a set of operations (for an object).
+
+Value - A value is a set of bits in memory interpreted according to a type.
+
+Declaration - A declaration is a statement that gives a name and a type to an object.
+
+Definition - A definition is a declaration that sets aside memory for an object.
