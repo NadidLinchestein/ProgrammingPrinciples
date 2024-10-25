@@ -1,0 +1,10 @@
+Q)  What notations can you use to initialize an object?
+
+
+A)  In C++, you can initialize an object using:
+
+    Copy Initialization: Uses the assignment operator, e.g., int x = 5;
+    Direct Initialization: Uses parentheses, e.g., int x(5);
+    Brace Initialization (Uniform Initialization): Uses braces and helps prevent narrowing conversions, e.g., int x{5};
+    
+    Each notation has its use cases, but brace initialization is often preferred for consistency and safety in modern C++.

@@ -1,0 +1,6 @@
+Q)  What is meant by the term prompt?
+
+
+A)  A prompt is a message displayed to the user to indicate that the program is waiting for input. 
+    It guides the user on what to enter, such as "Enter your name:" or "Please input an integer." 
+    Prompts help clarify what kind of information the program is expecting from the user.

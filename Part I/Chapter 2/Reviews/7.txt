@@ -1,0 +1,5 @@
+Q)  What terminates input into an integer?
+
+
+A)  For an integer input, pressing Enter or whitespace terminates the input. 
+    Input stops once a non-integer character or whitespace is encountered.

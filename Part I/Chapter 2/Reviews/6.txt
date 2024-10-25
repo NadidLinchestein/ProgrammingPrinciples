@@ -1,0 +1,5 @@
+Q)  What terminates input into a string?
+
+
+A)  Input into a std::string is terminated when the user presses the Enter key. The input stops when a whitespace or newline is encountered 
+    unless std::getline is used, which captures an entire line, including spaces, until the Enter key is pressed.

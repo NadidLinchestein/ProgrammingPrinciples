@@ -1,0 +1,6 @@
+Q)  Which operator do you use to read into a variable?
+
+
+A)  The extraction operator (>>) is used to read input from the standard input stream (std::cin) into a variable in C++. 
+    
+    std::cin >> variableName;

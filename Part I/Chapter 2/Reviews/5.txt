@@ -1,0 +1,5 @@
+Q)  What is \n called and what purpose does it serve?
+
+
+A)  \n is called the newline character. It’s used in strings to insert a line break, 
+    moving the cursor to the beginning of the next line in the console or text output.
