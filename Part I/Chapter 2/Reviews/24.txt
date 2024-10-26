@@ -1,0 +1,5 @@
+Q)  Why can conversion from double to int be a bad thing?
+
+
+A)  Conversion from double to int can result in a loss of precision because the fractional part of the double value is truncated. 
+    This can lead to inaccurate results if the exact value is required, and it may introduce bugs if the fractional part is significant in calculations.

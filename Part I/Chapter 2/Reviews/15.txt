@@ -1,0 +1,6 @@
+Q)   What is the difference between = and ==?
+
+
+A)  = is the assignment operator used to assign a value to a variable.
+    
+    == is the equality operator used to compare two values to see if they are equal.

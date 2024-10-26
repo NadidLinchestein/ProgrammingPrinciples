@@ -1,0 +1,10 @@
+Q)  What are some good rules for choosing names?
+
+
+A)  Good rules for choosing names include:
+
+    Be descriptive: Choose names that clearly indicate the purpose, e.g., totalAmount instead of temp.
+    Use camelCase or snake_case consistently: e.g., userAge or user_age.
+    Avoid abbreviations: Use full words for clarity, unless they are universally understood, e.g., userId instead of uId.
+    Avoid single-letter names (except for loop counters or trivial variables).
+    Avoid using keywords or common library function names.

@@ -1,0 +1,11 @@
+Q)  What operators can you apply to an int?
+
+
+A)  You can apply various operators to an integer, including:
+
+    Arithmetic operators: +, -, *, /, %
+    Assignment operators: =, +=, -=, *=, /=, %=
+    Increment/decrement operators: ++, --
+    Comparison operators: ==, !=, <, >, <=, >=
+    Logical operators: &&, ||, !
+    Bitwise operators: &, |, ^, ~, <<, >>

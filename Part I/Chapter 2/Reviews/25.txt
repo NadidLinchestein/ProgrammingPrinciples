@@ -1,0 +1,8 @@
+Q)  Define a rule to help decide if a conversion from one type to another is safe or unsafe.
+
+
+A)  A general rule is:
+
+    A conversion is safe if it doesn’t result in a loss of data or precision (e.g., int to double is safe).
+    
+    A conversion is unsafe if it may cause a loss of information, data truncation, or change in data meaning (e.g., double to int, float to int, or long to short).

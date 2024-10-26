@@ -1,0 +1,9 @@
+Q)  How can we avoid undesirable conversions?
+
+
+A)  To avoid undesirable conversions:
+
+    Use type-safe casts (e.g., static_cast, dynamic_cast) instead of implicit casting.
+    Use explicit types (avoid mixed-type operations unless necessary).
+    Enable compiler warnings to detect and avoid implicit, potentially unsafe type conversions.
+    Use auto for automatic type inference, reducing the need for explicit conversions.

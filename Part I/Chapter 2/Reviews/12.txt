@@ -1,0 +1,5 @@
+Q)  What is a variable?
+
+
+A)  A variable is a named storage location in memory that holds a value and can be modified. 
+    Variables are declared with a data type and assigned values during the program’s execution.

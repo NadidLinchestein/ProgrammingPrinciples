@@ -1,0 +1,5 @@
+Q)  What is type safety and why is it important?
+
+
+A)  Type safety means that operations only involve compatible data types, preventing unexpected behavior and errors due to type mismatches. 
+    Type safety helps ensure that the program behaves as expected and reduces the risk of runtime errors, making the code more reliable and easier to debug.

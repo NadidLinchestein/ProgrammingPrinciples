@@ -1,0 +1,9 @@
+Computation - The act of producing some outputs based on some inputs.
+
+Abstraction - Hide details that we don’t need to use a facility (“implementation details”) behind a convenient and general interface.
+
+Divide and conquer - Take a large problem and divide it into several little ones.
+
+Expression - The most basic building block of programs is an expression. An expression computes a value from a number of operands. 
+             The simplest expression is simply a literal value, such as 10, 'a', 3.14, or "Norah". 
+             Names of variables are also expressions.

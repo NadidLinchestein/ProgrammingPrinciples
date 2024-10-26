@@ -1,0 +1,7 @@
+Q)  What is string concatenation and how do you make it work in C++?
+
+
+A)  String concatenation is the process of joining two or more strings. 
+    In C++, concatenation is done with the + operator:
+
+    std::string fullName = firstName + " " + lastName;

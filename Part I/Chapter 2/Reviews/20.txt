@@ -1,0 +1,20 @@
+Q)  Which of the following are legal names in C++? If a name is not legal, why not?
+
+- This_little_pig 
+- This_1_is fine 
+- 2_For_1_special 
+- latest thing
+- George@home 
+- _this_is_ok 
+- MineMineMine 
+- number
+- correct? 
+- stroustrup.com 
+- $PATH
+
+
+A)  Here are common rules for legal identifiers in C++:
+
+    Identifiers must start with a letter or an underscore and can contain letters, digits, or underscores.
+    Identifiers cannot be keywords.
+    Identifiers are case-sensitive.

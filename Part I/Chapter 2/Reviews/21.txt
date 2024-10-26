@@ -1,0 +1,12 @@
+Q)  Give five examples of legal names that you shouldn’t use because they are likely to cause confusion.
+
+
+A)  Some legal names that could cause confusion due to their similarity to keywords or common terms include:
+
+    int (could be mistaken for the int data type)
+    float (could be mistaken for the float data type)
+    temp (too generic, not descriptive)
+    count (could be unclear if not scoped properly)
+    sum (often used but could be confusing if context is unclear)
+    
+    Using these names can lead to misunderstanding, especially if they are commonly associated with specific functionalities.

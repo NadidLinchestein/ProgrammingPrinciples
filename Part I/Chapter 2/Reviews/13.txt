@@ -1,0 +1,8 @@
+Q)  What are typical sizes for a char, an int, and a double?
+
+
+A)  char: Typically 1 byte (8 bits)
+    
+    int: Typically 4 bytes (32 bits)
+    
+    double: Typically 8 bytes (64 bits)

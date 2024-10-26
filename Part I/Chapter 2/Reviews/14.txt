@@ -1,0 +1,4 @@
+Q)  What measures do we use for the size of small entities in memory, such as ints and strings?
+
+
+A)  Memory sizes for small entities are typically measured in bytes.

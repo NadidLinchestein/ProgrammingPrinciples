@@ -1,0 +1,11 @@
+How would you write the following as a single line of code:
+    cout << "Hello, ";
+    cout << first_name;
+    cout << "!\n";
+
+
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, " << first_name << "!\n";
+}

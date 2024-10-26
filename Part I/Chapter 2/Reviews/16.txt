@@ -1,0 +1,6 @@
+Q)  What is a definition?
+
+
+A)  A definition specifies the type and allocates storage for a variable or function. 
+    
+    For example, int x; is a definition for an integer variable x.

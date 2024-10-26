@@ -1,0 +1,14 @@
+Q)  What kinds of literals are there?
+
+
+A)  The main types of literals in C++ include:
+
+    - Integer literals: e.g., 42
+    
+    - Floating-point literals: e.g., 3.14
+    
+    - Character literals: e.g., 'a'
+    
+    - String literals: e.g., "Hello"
+    
+    - Boolean literals: true and false

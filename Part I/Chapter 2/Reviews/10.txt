@@ -1,0 +1,5 @@
+Q)  What is a literal?
+
+
+A)  A literal is a fixed value directly used in the code, such as 42, 3.14, or "Hello". 
+    Literals represent specific values for data types, including integers, floating-point numbers, characters, strings, and booleans.

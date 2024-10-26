@@ -1,0 +1,6 @@
+Q)  What is an initialization and how does it differ from an assignment?
+
+
+A)  Initialization gives an initial value to a variable at the time of definition, e.g., int x = 5;. 
+    
+    An assignment gives a variable a new value after it has been defined, e.g., x = 10;.

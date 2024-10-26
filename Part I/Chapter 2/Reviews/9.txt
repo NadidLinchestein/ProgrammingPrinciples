@@ -1,0 +1,5 @@
+Q)  What is an object?
+
+
+A)  An object is an instance of a class or type that holds data and can perform operations defined by its type. 
+    In C++, an object can be a variable, function, array, or instance of a class, encapsulating both data (attributes) and functionality (methods).

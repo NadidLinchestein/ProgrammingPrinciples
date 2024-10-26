@@ -1,0 +1,8 @@
+Q)  What are the uses of auto?
+
+
+A)  The auto keyword is used for automatic type deduction, where the compiler infers the variable’s type from its initializer. It is useful for:
+
+    Reducing repetitive type declarations (e.g., with long or complex types).
+    Improving readability by avoiding explicit type notation, especially in loops and complex initializations.
+    Supporting more maintainable code, as changes to data types in the codebase won’t require updating auto declarations.
