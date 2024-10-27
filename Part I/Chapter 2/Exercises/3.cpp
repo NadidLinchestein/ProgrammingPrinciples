@@ -7,6 +7,13 @@
 
 int main()
 {
+    int valid_var = 0;
+    int _anotherValidVar = 1;
+    // int 2invalidVar = 2;      // Illegal: cannot start with a number
+    // int double = 3;            // Illegal: cannot use reserved keywords
+    // int another-valid = 4;     // Illegal: hyphens are not allowed
+
+    std::cout << "Testing variable declarations." << std::endl;
 
     return 0;
 }

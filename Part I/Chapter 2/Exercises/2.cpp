@@ -7,13 +7,12 @@
 
 int main()
 {
-    int miles;
-
-    std::cout << "Enter Miles: ";
+    double miles;
+    std::cout << "Enter distance in miles: ";
     std::cin >> miles;
 
-    int conversion = 1.609 * miles;
-    std::cout << "Kilometers: " << conversion << std::endl;
+    double kilometers = miles * 1.609;
+    std::cout << miles << " miles is " << kilometers << " kilometers." << std::endl;
 
     return 0;
 }
