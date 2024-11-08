@@ -1,0 +1,4 @@
+Q)  What can you do to a string that you cannot do to an int?
+
+
+A)  Concatenate with other strings, access individual characters by index, and perform substring operations.

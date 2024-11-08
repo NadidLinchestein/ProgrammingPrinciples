@@ -1,0 +1,4 @@
+Q)  What are some operators that we can use for integers and floating-point values?
+
+
+A)  Basic arithmetic operators (+, -, *, /), comparison operators (==, !=, <, >, <=, >=), and logical operators (&&, ||, !).

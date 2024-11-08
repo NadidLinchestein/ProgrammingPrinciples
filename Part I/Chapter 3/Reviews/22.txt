@@ -1,0 +1,4 @@
+Q)  What is the index of the third element of a vector?
+
+
+A)  The index is 2, as vectors are zero-indexed.

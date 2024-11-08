@@ -1,0 +1,4 @@
+Q)  What does vector<char> alphabet(26); do?
+
+
+A)  It creates a vector of characters with 26 elements, initializing each element to the default value of char (usually '\0').

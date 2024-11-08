@@ -1,0 +1,4 @@
+Q)  Describe what the line char foo(int x) means in a function definition.
+
+
+A)  It defines a function named foo that takes an integer parameter x and returns a char (character) type.

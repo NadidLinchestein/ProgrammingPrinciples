@@ -1,0 +1,6 @@
+Q)  What is a magic constant?
+
+
+A)  A magic constant is a hard-coded value without an explanation in the code, making it difficult to understand.
+    
+    Examples: 3.14159 (pi), 60 (seconds in a minute).

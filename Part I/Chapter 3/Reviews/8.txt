@@ -1,0 +1,4 @@
+Q)  What is a literal?
+
+
+A)  A literal is a fixed value directly represented in the code, like numbers (42, 3.14), characters ('a'), or strings ("hello").

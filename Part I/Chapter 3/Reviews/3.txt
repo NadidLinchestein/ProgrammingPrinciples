@@ -1,0 +1,8 @@
+Q)  What are the three requirements a programmer should keep in mind when expressing computations?
+
+
+A)  Correctness: Ensure the computation performs the intended operation.
+    
+    Efficiency: Design the computation to use resources optimally.
+    
+    Readability: Make the code clear and understandable for others.

@@ -1,0 +1,6 @@
+Q)  What is a constant expression?
+
+
+A)  A constant expression is an expression whose value cannot change during program execution. 
+
+    It's typically evaluated at compile-time.

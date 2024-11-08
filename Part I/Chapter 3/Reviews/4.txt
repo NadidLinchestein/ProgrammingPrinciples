@@ -1,0 +1,6 @@
+Q)  What does an expression do?
+
+
+A)  An expression computes a value by combining variables, literals, operators, or functions. 
+    
+    It produces a result that can be assigned or used elsewhere in the code.

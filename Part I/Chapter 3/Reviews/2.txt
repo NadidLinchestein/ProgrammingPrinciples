@@ -1,0 +1,6 @@
+Q)  What do we mean by inputs and outputs to a computation? Give examples.
+
+
+a)  Inputs are the values or data provided to a computation to process, and outputs are the results generated after the computation is performed.
+    
+    Example: In a function that adds two numbers, the numbers are inputs, and the sum is the output.

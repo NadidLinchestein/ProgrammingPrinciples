@@ -1,0 +1,6 @@
+Q)  What are some common problems with switch-statements?
+
+
+A)  Problems include forgetting the break statement (causing fall-through to the next case), limited support for non-integer types 
+    
+    (such as strings in some languages), and lack of flexibility compared to if-else chains for complex conditions.

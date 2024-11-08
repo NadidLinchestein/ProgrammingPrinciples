@@ -1,0 +1,12 @@
+Q)  What is the function of each part of the header line in a for-loop, and in what sequence are they executed?
+
+
+A)  The for-loop header has three parts:
+    
+    Initialization (int i = 0): Executed once at the beginning.
+    
+    Condition (i < n): Checked before each iteration; loop continues if true.
+    
+    Update (i++): Executed after each loop iteration.
+    
+    The sequence is: Initialization → Condition check → Loop body → Update.

@@ -1,0 +1,6 @@
+Q)  When would a programmer prefer a switch-statement to an if-statement?
+
+
+A)  A switch-statement is preferred when there are multiple discrete conditions based on the value of a single variable, typically integer or character values. 
+    
+    It can be more efficient and easier to read than multiple if-else statements for these cases.

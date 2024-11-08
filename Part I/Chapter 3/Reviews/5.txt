@@ -1,0 +1,6 @@
+Q)  What is the difference between a statement and an expression, as described in this chapter?
+
+
+A)  A statement performs an action but does not necessarily produce a value, while an expression always evaluates to a value.
+    
+    Example: x = 5; is a statement (assigns a value), and x + 2 is an expression (evaluates to a value).

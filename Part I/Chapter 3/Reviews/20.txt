@@ -1,0 +1,4 @@
+Q)  What can you do to an int that you cannot do to a string?
+
+
+A)  Perform arithmetic operations directly, like addition, subtraction, multiplication, and division.

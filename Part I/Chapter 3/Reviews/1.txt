@@ -1,0 +1,6 @@
+Q)  What is a computation?
+
+
+A)  A computation is a process where a computer or program performs operations based on a set of instructions to achieve a specific result. 
+    
+    Computations can range from simple arithmetic to complex data processing tasks.

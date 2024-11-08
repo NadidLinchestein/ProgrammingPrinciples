@@ -1,0 +1,4 @@
+Q)  What operators can be used on integers but not on floating-point numbers?
+
+
+A)  Modulus operator (%) is commonly used with integers but not with floating-point values.

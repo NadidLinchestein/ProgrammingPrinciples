@@ -1,0 +1,6 @@
+Q)  What is a symbolic constant and why do we use them?
+
+
+A)  A symbolic constant is a named constant, like const int MAX_USERS = 100;. 
+    
+    We use them for clarity and maintainability, as they make code easier to understand and modify.

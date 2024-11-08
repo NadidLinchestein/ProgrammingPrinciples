@@ -1,0 +1,12 @@
+Q)  When should you define a separate function for part of a program? List reasons.
+
+
+A)  Define a function when:
+    
+    A task is repeated in multiple places.
+    
+    A specific operation can be isolated for clarity.
+    
+    Breaking down code improves readability and maintainability.
+    
+    It simplifies debugging or unit testing.

@@ -1,0 +1,4 @@
+Q)  What are some operators that can be used for strings?
+
+
+A)  Concatenation operator (+), equality comparison operators (==, !=), and sometimes greater than or less than comparisons (<, >).

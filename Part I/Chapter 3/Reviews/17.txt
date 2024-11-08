@@ -1,0 +1,6 @@
+Q)  When should the for-loop be used and when should the while-loop be used?
+
+
+A)  Use a for-loop when the number of iterations is known or can be controlled with a counter. 
+    
+    Use a while-loop when the loop depends on a condition that may change unpredictably during execution.

@@ -1,0 +1,11 @@
+Q)  What is an lvalue? List the operators that require an lvalue. 
+    
+    Why do these operators, and not the others, require an lvalue?
+
+
+A)  An lvalue (left-value) is an object that can appear on the left side of an assignment operator.
+    
+    Operators requiring lvalues: Assignment operators (=), increment/decrement (++, --), 
+                                 and compound assignment operators (+=, -=, etc.).
+    
+    These operators require an lvalue because they modify the contents of a memory location.

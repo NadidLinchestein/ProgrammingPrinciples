@@ -1,0 +1,4 @@
+Q)  Describe what push_back() does to a vector.
+
+
+A)  push_back() appends an element to the end of the vector, increasing its size by one.

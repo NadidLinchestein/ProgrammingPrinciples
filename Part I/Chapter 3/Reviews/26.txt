@@ -1,0 +1,4 @@
+Q)  What does vector’s member size() do?
+
+
+A)  size() returns the number of elements currently stored in the vector.

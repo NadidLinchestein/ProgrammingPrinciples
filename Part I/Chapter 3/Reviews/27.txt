@@ -1,0 +1,6 @@
+Q)  What makes vector so popular/useful?
+
+
+A)  Vectors offer dynamic resizing, flexibility, and easy access to elements with functions like push_back(), 
+    
+    size(), and indexing, making them convenient for a wide range of applications.
