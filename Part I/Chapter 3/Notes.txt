@@ -1,9 +1,57 @@
-Computation - The act of producing some outputs based on some inputs.
+Abstraction: A programming concept that simplifies complex systems by modeling classes that capture only the essential features and behaviors of real-world entities while hiding implementation details.
 
-Abstraction - Hide details that we don’t need to use a facility (“implementation details”) behind a convenient and general interface.
+Range-for-statement: A loop that iterates over elements in a collection (like arrays or vectors) using the syntax for (auto& element : container), introduced in C++11. It’s simpler and often safer than traditional loops.
 
-Divide and conquer - Take a large problem and divide it into several little ones.
+push_back(): A member function of the std::vector container that appends a new element to the end of the vector, increasing its size by one.
 
-Expression - The most basic building block of programs is an expression. An expression computes a value from a number of operands. 
-             The simplest expression is simply a literal value, such as 10, 'a', 3.14, or "Norah". 
-             Names of variables are also expressions.
+for-statement: A control structure that allows code to be repeated based on an iteration condition. The syntax is generally for (initialization; condition; increment) { ... }.
+
+Function: A block of code designed to perform a particular task. Functions are defined using a specific syntax, including a return type, function name, parameter list, and a body with the code to execute.
+
+Repetition: The concept of executing a block of code multiple times, often implemented in C++ using loops (for, while, or do-while).
+
+Computation: The process of performing mathematical operations or calculations as part of a program.
+
+if-statement: A conditional statement that executes a block of code if a specified condition is true, with optional else or else if parts to handle other conditions.
+
+rvalue: A temporary object or literal that does not persist beyond the expression in which it is used. Examples are literals like 5 or expressions like a + b.
+
+Conditional statement: A statement that performs different actions based on whether a condition is true or false. Examples include if, else, and switch statements.
+
+Increment: An operation that increases the value of a variable, often by one. In C++, it is typically represented by ++ (e.g., i++ or ++i).
+
+Selection: The process of choosing different execution paths in a program based on conditions, often done with conditional statements.
+
+Declaration: Introducing a variable, function, or class to the program without necessarily defining its value or implementation. For example, int x; declares an integer variable x.
+
+Input: Data provided to a program by a user or another system, typically handled in C++ using cin for console input or reading from files.
+
+size(): A member function in containers (like std::vector, std::string, etc.) that returns the number of elements currently stored in the container.
+
+Definition: Specifies the details of a declared element. For example, defining a function means providing the actual code block that implements it.
+
+Iteration: The process of repeating a block of code multiple times, typically controlled by a loop.
+
+sort(): A standard library function in C++ used to sort elements in a range, such as those in an array or vector. The default sort order is ascending.
+
+Divide-and-conquer: A problem-solving strategy that divides a problem into smaller subproblems, solves them independently, and combines their results. Commonly used in algorithms like merge sort and quicksort.
+
+Loop: A construct that repeats a block of code while a certain condition holds. The main types are for, while, and do-while loops.
+
+Statement: An individual instruction in a C++ program, such as a declaration, expression, or control statement.
+
+else: Used with an if statement to define a block of code that executes when the if condition is false.
+
+lvalue: Refers to an object that has an identifiable location in memory (left-hand side of an assignment). For instance, variables like x are lvalues in x = 10;.
+
+switch-statement: A control statement that allows for selection among multiple alternatives based on the value of an expression, commonly used with integral or enumerated values.
+
+while-statement: A loop that repeats as long as a specified condition is true. The condition is checked before each iteration, meaning it’s possible the loop may never run if the condition is initially false.
+
+member function: A function that belongs to a class and operates on its objects. For instance, push_back() is a member function of std::vector.
+
+vector: A dynamic array provided by the C++ Standard Library (std::vector) that can grow or shrink in size. It offers features like random access and efficient insertion/deletion at the end.
+
+Expression: A combination of variables, constants, and operators that produces a value. For example, a + b * c is an expression that computes a result.
+
+Output: Data that a program provides to the user or another system, often displayed on the console using cout or written to a file.
